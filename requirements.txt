@@ -1,0 +1,12 @@
+streamlit
+transformers
+torch
+sentencepiece
+PyPDF2
+pdf2image
+pytesseract
+string
+SpeechRecognition
+gtts
+playsound==1.2.2
+pyaudio
